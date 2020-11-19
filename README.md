@@ -1,2 +1,2 @@
 # PONG_GAME
-* Desenvolvimento do jogo Pong utilizando a linguagem python e o framework pyxel.
+* Desenvolvimento em andamento do jogo Pong utilizando a linguagem python e o framework pyxel.
